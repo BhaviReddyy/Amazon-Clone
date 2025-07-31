@@ -13,4 +13,4 @@ Used Font Awesome for icons and ensured the UI closely matched the Amazon deskto
 
 Purpose: To strengthen foundational front-end skills, understand real-world UI design patterns, and gain hands-on experience in building scalable layouts.
 
-🌐 Live Website: https://github.com/BhaviReddyy
+🌐 Live Website: https://mega-mart-clone.netlify.app/
